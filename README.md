@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Daniel Vieira Gomes de Faria, but you can call me @danielufg
+- 👋 Hi, my name is Daniel Vieira Gomes de Faria
 - 🌱 I’m currently studying Computer Engineering at UFG - Universidade Federal de Goiás - Goiânia, Goiás, Brazil
 - 👀 My main interest is in: Artificial Intelligence, on the area of Computer Vision
 - 💞️ At this moment, I don't have any projects :(

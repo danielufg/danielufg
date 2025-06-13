@@ -1,6 +1,6 @@
-#Atividade - [LAB] AT-06-10: Implementar ORM de uma classe Modelo do Projeto
+# Atividade - [LAB] AT-06-10: Implementar ORM de uma classe Modelo do Projeto
 
-##Com base na classe Usuario, implementei o ORM relativo às subclasses Administrador e Cliente que modelam o cadastro de dois usuários distintos que utilizariam nosso projeto.
+## Com base na classe Usuario, implementei o ORM relativo às subclasses Administrador e Cliente que modelam o cadastro de dois usuários distintos que utilizariam nosso projeto.
 
 Inicialmente, instanciei três usuários distintos, um Administrador e dois Cliente fictícios. 
 

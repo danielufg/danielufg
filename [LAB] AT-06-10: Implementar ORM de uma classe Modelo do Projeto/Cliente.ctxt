@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=nomeCompleto\ matricula\ senha
+comment1.target=Cliente(java.lang.String,\ int,\ java.lang.String)
+comment2.params=matricula\ senha
+comment2.target=boolean\ login(int,\ java.lang.String)
+numComments=3
